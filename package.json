@@ -1,7 +1,7 @@
 {
   "name": "koa_middlewares_with_config",
   "version": "1.0.0",
-  "description": "",
+  "description": "load koa 2.x middlewares with config",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/i5ting/koa_middlewares_with_config.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "i5ting",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/i5ting/koa_middlewares_with_config/issues"
   },
