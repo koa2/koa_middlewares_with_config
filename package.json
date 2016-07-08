@@ -1,6 +1,6 @@
 {
   "name": "koa_middlewares_with_config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "load koa 2.x middlewares with config",
   "main": "index.js",
   "scripts": {
