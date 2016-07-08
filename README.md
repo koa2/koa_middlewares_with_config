@@ -2,6 +2,8 @@
 
 load Koa 2.x middlewares with config
 
+[![NPM version](https://img.shields.io/npm/v/koa_middlewares_with_config.svg?style=flat-square)](https://www.npmjs.com/package/koa_middlewares_with_config)
+
 ## Install
 
 ```
