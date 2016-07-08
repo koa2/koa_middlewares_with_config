@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/i5ting/koa_middlewares_with_config#readme",
   "dependencies": {
-    "call_module_with_config": "^1.0.0",
+    "call_module_with_config": "^1.0.1",
     "debug": "^2.2.0",
     "koa-compose": "^3.1.0"
   },
